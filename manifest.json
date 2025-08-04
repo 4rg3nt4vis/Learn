@@ -1,0 +1,15 @@
+{
+    "name": "Learn",
+    "short_name": "Learn",
+    "start_url": "https://learn.uwaterloo.ca/d2l/home",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
